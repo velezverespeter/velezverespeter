@@ -10,11 +10,10 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 ![Education](./assets/heading-education.svg)
-<img src="./assets/divider.svg" width="100%" />
-
+<img src="./assets/divider.svg" width="100%" height="1" />  
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
 Ljubljana, Slovenia
@@ -31,32 +30,30 @@ Ljubljana, Slovenia
 - Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance
 - Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
-<br/><br/>
+<br/>
 
 ![Skills & Expertise](./assets/heading-skills.svg)
-<img src="./assets/divider.svg" width="100%" />
-
+<img src="./assets/divider.svg" width="100%" height="1" />  
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
 **Financial Data Engineering** — SQL, ETL pipelines, AWS/GCP
 **Financial Econometrics** — GARCH, cointegration, event studies (R)
 **Programming** — Python, SQL, R
 
-<br/><br/>
+<br/>
 
 ![Values & Principles](./assets/heading-values.svg)
-<img src="./assets/divider.svg" width="100%" />
-
+<img src="./assets/divider.svg" width="100%" height="1" />  
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
 **Clarity** — Financial analysis exists to inform decisions — output is built to be read by someone without the code in front of them.
 
 **Applied Focus** — Work is grounded in real market data and real use cases, not toy examples.
 
-<br/><br/>
+<br/>
 
 ![Projects](./assets/heading-projects.svg)
-<img src="./assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" height="1" />
 
 | Repository | Description |
 |---|---|
@@ -72,4 +69,3 @@ Ljubljana, Slovenia
 <br/>
 
 <sub>The content of this website is intended solely for general informational and educational purposes and does not constitute personalized legal, financial, or investment advice. While it has been prepared with the utmost care, it should not be considered a substitute for professional advice. All trademarks, logos, and brand names are the property of their respective owners and are protected by applicable rights.</sub>
-
