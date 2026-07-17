@@ -1,4 +1,5 @@
 
+
 # Peter Velez Vereš
 <sub>Economist&nbsp;|&nbsp;Financial Analyst&nbsp;|&nbsp;CFA Candidate</sub>
 
@@ -10,7 +11,7 @@
 </div>
 
 ![Education](./assets/heading-education.svg)
-<hr/>
+<img src="./assets/divider.svg" width="170" height="2" />
 
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
@@ -28,10 +29,8 @@ Ljubljana, Slovenia
 - Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance
 - Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
-<br/>
-
 ![Skills & Expertise](./assets/heading-skills.svg)
-<hr/>
+<img src="./assets/divider.svg" width="245" height="2" />
 
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
@@ -39,10 +38,8 @@ Ljubljana, Slovenia
 **Financial Econometrics** — GARCH, cointegration, event studies (R)
 **Programming** — Python, SQL, R
 
-<br/>
-
 ![Values & Principles](./assets/heading-values.svg)
-<hr/>
+<img src="./assets/divider.svg" width="260" height="2" />
 
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
@@ -50,10 +47,8 @@ Ljubljana, Slovenia
 
 **Applied Focus** — Work is grounded in real market data and real use cases, not toy examples.
 
-<br/>
-
 ![Projects](./assets/heading-projects.svg)
-<hr/>
+<img src="./assets/divider.svg" width="140" height="2" />
 
 | Repository | Description |
 |---|---|
@@ -69,3 +64,4 @@ Ljubljana, Slovenia
 <br/>
 
 <sub>The content of this website is intended solely for general informational and educational purposes and does not constitute personalized legal, financial, or investment advice. While it has been prepared with the utmost care, it should not be considered a substitute for professional advice. All trademarks, logos, and brand names are the property of their respective owners and are protected by applicable rights.</sub>
+
