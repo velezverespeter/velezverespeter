@@ -1,22 +1,15 @@
-<table width="100%">
-<tr>
-<td align="left" valign="top">
-
 # Peter Velez Vereš
 <sub>Economist&nbsp;|&nbsp;Financial Analyst&nbsp;|&nbsp;CFA Candidate</sub>
 
-</td>
-<td align="right" valign="top">
+<div align="right">
 
-<a href="https://velezverespeter.com"><img src="https://img.shields.io/badge/🌐-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/velezverespeter"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/velezverespeter"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge)](https://velezverespeter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velezverespeter)
 
-</td>
-</tr>
-</table>
+</div>
 
-## <font color="#1672B0">Education</font>
+![Education](./assets/heading-education.svg)
 
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
@@ -36,7 +29,7 @@ Ljubljana, Slovenia
 
 <br/>
 
-## <font color="#1672B0">Skills & Expertise</font>
+![Skills & Expertise](./assets/heading-skills.svg)
 
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
@@ -46,7 +39,7 @@ Ljubljana, Slovenia
 
 <br/>
 
-## <font color="#1672B0">Values & Principles</font>
+![Values & Principles](./assets/heading-values.svg)
 
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
@@ -56,7 +49,7 @@ Ljubljana, Slovenia
 
 <br/>
 
-## <font color="#1672B0">Projects</font>
+![Projects](./assets/heading-projects.svg)
 
 | Repository | Description |
 |---|---|
@@ -67,6 +60,7 @@ Ljubljana, Slovenia
 | [`corporate-finance-and-statement-analysis`](https://github.com/velezverespeter/corporate-finance-and-statement-analysis) | 10-K/10-Q parsing, ratio analysis, credit scoring, LBO modeling |
 | [`applied-financial-tools`](https://github.com/velezverespeter/applied-financial-tools) | Everyday finance automation — budgeting, dashboards, personal finance scripts |
 
+*(Update links once each repo exists — pin these 6 on your profile via "Customize your pins.")*
 
 <br/>
 
