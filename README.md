@@ -10,8 +10,10 @@
 
 </div>
 
+<br/><br/>
+
 ![Education](./assets/heading-education.svg)
-<img src="./assets/divider.svg" width="100%" height="2" />
+<img src="./assets/divider.svg" width="100%" />
 
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
@@ -29,8 +31,10 @@ Ljubljana, Slovenia
 - Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance
 - Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
+<br/><br/>
+
 ![Skills & Expertise](./assets/heading-skills.svg)
-<img src="./assets/divider.svg" width="100%" height="2" />
+<img src="./assets/divider.svg" width="100%" />
 
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
@@ -38,8 +42,10 @@ Ljubljana, Slovenia
 **Financial Econometrics** — GARCH, cointegration, event studies (R)
 **Programming** — Python, SQL, R
 
+<br/><br/>
+
 ![Values & Principles](./assets/heading-values.svg)
-<img src="./assets/divider.svg" width="100%" height="2" />
+<img src="./assets/divider.svg" width="100%" />
 
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
@@ -47,8 +53,10 @@ Ljubljana, Slovenia
 
 **Applied Focus** — Work is grounded in real market data and real use cases, not toy examples.
 
+<br/><br/>
+
 ![Projects](./assets/heading-projects.svg)
-<img src="./assets/divider.svg" width="100%" height="2" />
+<img src="./assets/divider.svg" width="100%" />
 
 | Repository | Description |
 |---|---|
