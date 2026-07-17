@@ -11,7 +11,7 @@
 </div>
 
 ![Education](./assets/heading-education.svg)
-<img src="./assets/divider.svg" width="170" height="2" />
+<img src="./assets/divider.svg" width="100%" height="2" />
 
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
@@ -30,7 +30,7 @@ Ljubljana, Slovenia
 - Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
 ![Skills & Expertise](./assets/heading-skills.svg)
-<img src="./assets/divider.svg" width="245" height="2" />
+<img src="./assets/divider.svg" width="100%" height="2" />
 
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
@@ -39,7 +39,7 @@ Ljubljana, Slovenia
 **Programming** — Python, SQL, R
 
 ![Values & Principles](./assets/heading-values.svg)
-<img src="./assets/divider.svg" width="260" height="2" />
+<img src="./assets/divider.svg" width="100%" height="2" />
 
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
@@ -48,7 +48,7 @@ Ljubljana, Slovenia
 **Applied Focus** — Work is grounded in real market data and real use cases, not toy examples.
 
 ![Projects](./assets/heading-projects.svg)
-<img src="./assets/divider.svg" width="140" height="2" />
+<img src="./assets/divider.svg" width="100%" height="2" />
 
 | Repository | Description |
 |---|---|
