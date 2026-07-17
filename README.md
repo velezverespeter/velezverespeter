@@ -1,3 +1,4 @@
+
 # Peter Velez Vereš
 <sub>Economist&nbsp;|&nbsp;Financial Analyst&nbsp;|&nbsp;CFA Candidate</sub>
 
@@ -5,11 +6,11 @@
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge)](https://velezverespeter.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velezverespeter)
 
 </div>
 
 ![Education](./assets/heading-education.svg)
+<hr/>
 
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
@@ -30,6 +31,7 @@ Ljubljana, Slovenia
 <br/>
 
 ![Skills & Expertise](./assets/heading-skills.svg)
+<hr/>
 
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
@@ -40,6 +42,7 @@ Ljubljana, Slovenia
 <br/>
 
 ![Values & Principles](./assets/heading-values.svg)
+<hr/>
 
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
@@ -50,6 +53,7 @@ Ljubljana, Slovenia
 <br/>
 
 ![Projects](./assets/heading-projects.svg)
+<hr/>
 
 | Repository | Description |
 |---|---|
@@ -64,4 +68,4 @@ Ljubljana, Slovenia
 
 <br/>
 
-<sub>velezverespeter.com · linkedin.com/in/velezverespeter · @velezverespeter</sub>
+<sub>The content of this website is intended solely for general informational and educational purposes and does not constitute personalized legal, financial, or investment advice. While it has been prepared with the utmost care, it should not be considered a substitute for professional advice. All trademarks, logos, and brand names are the property of their respective owners and are protected by applicable rights.</sub>
