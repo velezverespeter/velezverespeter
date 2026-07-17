@@ -1,17 +1,20 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td align="left" valign="top">
 
-# [Peter Velez Vereš]
+# Peter Velez Vereš
+<sub>Economist&nbsp;|&nbsp;Financial Analyst&nbsp;|&nbsp;CFA Candidate</sub>
 
-<sub>Economist | Financial Analyst | CFA Candidate</sub>
+</td>
+<td align="right" valign="top">
 
-
-<a href="https://velezverespeter.com"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/velezverespeter"><img src="https://img.shields.io/badge/-1672B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://velezverespeter.com"><img src="https://img.shields.io/badge/🌐-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/velezverespeter"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/velezverespeter"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-</div>
-
-<br/>
+</td>
+</tr>
+</table>
 
 ## <font color="#1672B0">Education</font>
 
@@ -64,10 +67,7 @@ Ljubljana, Slovenia
 | [`corporate-finance-and-statement-analysis`](https://github.com/velezverespeter/corporate-finance-and-statement-analysis) | 10-K/10-Q parsing, ratio analysis, credit scoring, LBO modeling |
 | [`applied-financial-tools`](https://github.com/velezverespeter/applied-financial-tools) | Everyday finance automation — budgeting, dashboards, personal finance scripts |
 
-*(Update links once each repo exists — pin these 6 on your profile via "Customize your pins.")*
 
 <br/>
 
-<div align="center">
 <sub>velezverespeter.com · linkedin.com/in/velezverespeter · @velezverespeter</sub>
-</div>
