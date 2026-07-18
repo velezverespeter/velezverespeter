@@ -19,13 +19,14 @@ Economist | Financial Analyst | CFA Candidate
 
 ## Skills & Expertise
 
-| Category | Tools & Methods |
-|---|---|
-| Quantitative Finance | DCF, options pricing, factor models, Monte Carlo simulation |
-| Risk Management | VaR/CVaR, stress testing, efficient frontier |
-| Financial Data Engineering | SQL, ETL pipelines, AWS/GCP |
-| Financial Econometrics | GARCH, cointegration, event studies (R) |
-| Programming | Python, SQL, R |
+<table width="100%">
+<tr><th align="left">Category</th><th align="left">Tools &amp; Methods</th></tr>
+<tr><td>Quantitative Finance</td><td>DCF, options pricing, factor models, Monte Carlo simulation</td></tr>
+<tr><td>Risk Management</td><td>VaR/CVaR, stress testing, efficient frontier</td></tr>
+<tr><td>Financial Data Engineering</td><td>SQL, ETL pipelines, AWS/GCP</td></tr>
+<tr><td>Financial Econometrics</td><td>GARCH, cointegration, event studies (R)</td></tr>
+<tr><td>Programming</td><td>Python, SQL, R</td></tr>
+</table>
 
 ## Values & Principles
 
@@ -40,14 +41,17 @@ Work is grounded in real market data and real use cases, not toy examples.
 
 ## Projects
 
-| Repository | Description |
-|---|---|
-| [`quantitative-asset-pricing`](https://github.com/velezverespeter/quantitative-asset-pricing) | Valuation and pricing models — DCF, comparable company analysis, options and bond pricing |
-| [`portfolio-theory-and-risk-management`](https://github.com/velezverespeter/portfolio-theory-and-risk-management) | Efficient frontier, VaR/CVaR, factor models, Monte Carlo simulation |
-| [`financial-econometrics`](https://github.com/velezverespeter/financial-econometrics) | Time-series models — GARCH volatility, cointegration, event studies |
-| [`financial-data-engineering`](https://github.com/velezverespeter/financial-data-engineering) | SQL schema design and market data ETL pipelines |
-| [`corporate-finance-and-statement-analysis`](https://github.com/velezverespeter/corporate-finance-and-statement-analysis) | 10-K/10-Q parsing, ratio analysis, credit scoring, LBO modeling |
-| [`applied-financial-tools`](https://github.com/velezverespeter/applied-financial-tools) | Everyday finance automation — budgeting, dashboards, personal finance scripts |
+Independent projects built with public market data and open-source tools, for applied learning and demonstration purposes.
+
+<table width="100%">
+<tr><th align="left">Repository</th><th align="left">Description</th></tr>
+<tr><td><a href="https://github.com/velezverespeter/quantitative-asset-pricing"><code>quantitative-asset-pricing</code></a></td><td>Valuation and pricing models built from public market data — DCF, comparable company analysis, options and bond pricing</td></tr>
+<tr><td><a href="https://github.com/velezverespeter/portfolio-theory-and-risk-management"><code>portfolio-theory-and-risk-management</code></a></td><td>Portfolio risk framework applied to public index and equity data — efficient frontier, VaR/CVaR, factor models, Monte Carlo simulation</td></tr>
+<tr><td><a href="https://github.com/velezverespeter/financial-econometrics"><code>financial-econometrics</code></a></td><td>Time-series analysis of public market data — GARCH volatility, cointegration, event studies</td></tr>
+<tr><td><a href="https://github.com/velezverespeter/financial-data-engineering"><code>financial-data-engineering</code></a></td><td>SQL schema design and an ETL pipeline built around public market data APIs</td></tr>
+<tr><td><a href="https://github.com/velezverespeter/corporate-finance-and-statement-analysis"><code>corporate-finance-and-statement-analysis</code></a></td><td>Analysis of publicly filed statements — automated 10-K/10-Q parsing, ratio analysis, credit scoring, LBO modeling</td></tr>
+<tr><td><a href="https://github.com/velezverespeter/applied-financial-tools"><code>applied-financial-tools</code></a></td><td>Personal finance automation — budgeting, dashboards, everyday utility scripts</td></tr>
+</table>
 
 *(Update links once each repo exists — pin these 6 on your profile via "Customize your pins.")*
 
