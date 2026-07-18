@@ -5,7 +5,7 @@ Economist | Financial Analyst | CFA Candidate
 
 **Master of Science, Banking and Financial Management**
 *University of Ljubljana, Faculty of Economics* — Ljubljana, Slovenia
-2025–2027 · In Progress
+
 
 ▪ Specialised knowledge: in-depth understanding of banking, financial instruments, capital markets, and risk management  
 ▪ Strategic vision: goal-oriented thinking focused on long-term growth and sustainable results  
@@ -13,7 +13,7 @@ Economist | Financial Analyst | CFA Candidate
 
 **Bachelor of Arts, Banking and Financial Management**
 *University of Ljubljana, Faculty of Economics* — Ljubljana, Slovenia
-2022–2025 · Completed
+
 
 ▪ Fundamentals of economics and finance: holistic understanding of markets, companies, and core financial concepts  
 ▪ Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance  
