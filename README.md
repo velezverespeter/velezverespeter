@@ -1,4 +1,4 @@
-### Peter Velez Vereš
+# Peter Velez Vereš
 Economist | Financial Analyst | CFA Candidate
 
 ## Education
@@ -7,17 +7,17 @@ Economist | Financial Analyst | CFA Candidate
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
 Ljubljana, Slovenia
 
-- Specialised knowledge: in-depth understanding of banking, financial instruments, capital markets, and risk management
-- Strategic vision: goal-oriented thinking focused on long-term growth and sustainable results
-- Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
+▪ Specialised knowledge: in-depth understanding of banking, financial instruments, capital markets, and risk management  
+▪ Strategic vision: goal-oriented thinking focused on long-term growth and sustainable results  
+▪ Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
 **Bachelor of Arts — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2022–2025 · Completed
 Ljubljana, Slovenia
 
-- Fundamentals of economics and finance: holistic understanding of markets, companies, and core financial concepts
-- Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance
-- Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
+▪ Fundamentals of economics and finance: holistic understanding of markets, companies, and core financial concepts  
+▪ Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance  
+▪ Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
 ## Skills & Expertise
 
