@@ -1,14 +1,19 @@
+<table width="100%">
+<tr>
+<td align="left" valign="middle">
 
 # Peter Velez Vereš
-
 Economist | Financial Analyst | CFA Candidate
 
-<div align="right">
+</td>
+<td align="right" valign="middle">
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat-square)](https://velezverespeter.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
 
-</div>
+</td>
+</tr>
+</table>
 
 ## Education
 
