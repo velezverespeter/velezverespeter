@@ -1,4 +1,4 @@
-# Peter Velez Vereš
+### Peter Velez Vereš
 Economist | Financial Analyst | CFA Candidate
 
 ## Education
