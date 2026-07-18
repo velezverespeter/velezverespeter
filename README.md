@@ -17,19 +17,15 @@ Economist | Financial Analyst | CFA Candidate
 ▪ Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance  
 ▪ Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
----
-
 ## Skills & Expertise
 
-| Category | Level | Tools & Methods |
-|---|---|---|
-| Quantitative Finance | Expert | DCF, options pricing, factor models, Monte Carlo simulation |
-| Risk Management | Expert | VaR/CVaR, stress testing, efficient frontier |
-| Financial Data Engineering | Advanced | SQL, ETL pipelines, AWS/GCP |
-| Financial Econometrics | Advanced | GARCH, cointegration, event studies (R) |
-| Programming | Expert | Python, SQL, R |
-
----
+| Category | Tools & Methods |
+|---|---|
+| Quantitative Finance | DCF, options pricing, factor models, Monte Carlo simulation |
+| Risk Management | VaR/CVaR, stress testing, efficient frontier |
+| Financial Data Engineering | SQL, ETL pipelines, AWS/GCP |
+| Financial Econometrics | GARCH, cointegration, event studies (R) |
+| Programming | Python, SQL, R |
 
 ## Values & Principles
 
@@ -41,8 +37,6 @@ Financial analysis exists to inform decisions — output is built to be read by 
 
 **03 Applied Focus**
 Work is grounded in real market data and real use cases, not toy examples.
-
----
 
 ## Projects
 
@@ -63,7 +57,5 @@ Work is grounded in real market data and real use cases, not toy examples.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
 
 </div>
-
----
 
 <sub>The content of this website is intended solely for general informational and educational purposes and does not constitute personalized legal, financial, or investment advice. While it has been prepared with the utmost care, it should not be considered a substitute for professional advice. All trademarks, logos, and brand names are the property of their respective owners and are protected by applicable rights.</sub>
