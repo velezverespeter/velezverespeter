@@ -57,6 +57,10 @@ Independent projects built with public market data and open-source tools, for ap
 <tr><td><a href="https://github.com/velezverespeter/applied-financial-tools"><code>applied-financial-tools</code></a></td><td>Personal finance automation — budgeting, dashboards, everyday utility scripts</td></tr>
 </table>
 
+
+<br/>
+<br/>
+
 <div align="right">
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat-square)](https://velezverespeter.com)
