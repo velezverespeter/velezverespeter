@@ -19,16 +19,20 @@ Economist | Financial Analyst | CFA Candidate
 
 ## Skills & Expertise
 
+Core competencies developed through academic coursework, self-directed study, and independent projects.
+
 <table width="100%">
 <tr><th align="left">Category</th><th align="left">Tools &amp; Methods</th></tr>
-<tr><td>Quantitative Finance</td><td>DCF, options pricing, factor models, Monte Carlo simulation</td></tr>
-<tr><td>Risk Management</td><td>VaR/CVaR, stress testing, efficient frontier</td></tr>
-<tr><td>Financial Data Engineering</td><td>SQL, ETL pipelines, AWS/GCP</td></tr>
-<tr><td>Financial Econometrics</td><td>GARCH, cointegration, event studies (R)</td></tr>
-<tr><td>Programming</td><td>Python, SQL, R</td></tr>
+<tr><td>Financial Modeling &amp; Valuation</td><td>DCF, comparable company analysis, LBO modeling, sensitivity and scenario analysis</td></tr>
+<tr><td>Financial Statement Analysis</td><td>Ratio analysis, variance analysis, budgeting and forecasting, 10-K/10-Q review</td></tr>
+<tr><td>Risk &amp; Portfolio Analysis</td><td>VaR/CVaR, stress testing, efficient frontier, factor models, Monte Carlo simulation</td></tr>
+<tr><td>Quantitative &amp; Data Tools</td><td>Python, SQL, R, econometric modeling (GARCH, cointegration)</td></tr>
+<tr><td>Reporting &amp; Communication</td><td>Excel/VBA, PowerPoint, dashboard design, stakeholder reporting</td></tr>
 </table>
 
 ## Values & Principles
+
+The standards I hold myself to in analytical and academic work.
 
 **01 Rigor**
 Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
