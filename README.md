@@ -1,6 +1,6 @@
 
 
-# Peter Velez Vereš
+![Peter Velez Vereš](./assets/name-title.svg)
 <sub>Economist&nbsp;|&nbsp;Financial Analyst&nbsp;|&nbsp;CFA Candidate</sub>
 
 <div align="right">
@@ -12,8 +12,10 @@
 
 <br/>
 
-![Education](./assets/heading-education.svg)
-<img src="./assets/divider.svg" width="100%" height="1" />  
+![Education](./assets/heading-education.svg)  
+<img src="./assets/divider.svg" width="100%" />
+<br/>
+
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
 Ljubljana, Slovenia
@@ -32,8 +34,10 @@ Ljubljana, Slovenia
 
 <br/>
 
-![Skills & Expertise](./assets/heading-skills.svg)
-<img src="./assets/divider.svg" width="100%" height="1" />  
+![Skills & Expertise](./assets/heading-skills.svg)  
+<img src="./assets/divider.svg" width="100%" />
+<br/>
+
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
 **Financial Data Engineering** — SQL, ETL pipelines, AWS/GCP
@@ -42,8 +46,10 @@ Ljubljana, Slovenia
 
 <br/>
 
-![Values & Principles](./assets/heading-values.svg)
-<img src="./assets/divider.svg" width="100%" height="1" />  
+![Values & Principles](./assets/heading-values.svg)  
+<img src="./assets/divider.svg" width="100%" />
+<br/>
+
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
 **Clarity** — Financial analysis exists to inform decisions — output is built to be read by someone without the code in front of them.
@@ -52,8 +58,9 @@ Ljubljana, Slovenia
 
 <br/>
 
-![Projects](./assets/heading-projects.svg)
-<img src="./assets/divider.svg" width="100%" height="1" />
+![Projects](./assets/heading-projects.svg)  
+<img src="./assets/divider.svg" width="100%" />
+<br/>
 
 | Repository | Description |
 |---|---|
