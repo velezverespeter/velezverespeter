@@ -1,20 +1,16 @@
 
+# Peter Velez Vereš
 
-![Peter Velez Vereš](./assets/name-title.svg)
-<sub>Economist&nbsp;|&nbsp;Financial Analyst&nbsp;|&nbsp;CFA Candidate</sub>
+Economist | Financial Analyst | CFA Candidate
 
 <div align="right">
 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge)](https://velezverespeter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat-square)](https://velezverespeter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
 
 </div>
 
-<br/>
-
-![Education](./assets/heading-education.svg)  
-<img src="./assets/divider.svg" width="100%" />
-<br/>
+## Education
 
 **Master of Science — Banking and Financial Management**
 University of Ljubljana, Faculty of Economics · 2025–2027 · In Progress
@@ -32,11 +28,7 @@ Ljubljana, Slovenia
 - Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance
 - Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
-<br/>
-
-![Skills & Expertise](./assets/heading-skills.svg)  
-<img src="./assets/divider.svg" width="100%" />
-<br/>
+## Skills & Expertise
 
 **Quantitative Finance** — DCF, options pricing, factor models, Monte Carlo simulation
 **Risk Management** — VaR/CVaR, stress testing, efficient frontier
@@ -44,11 +36,7 @@ Ljubljana, Slovenia
 **Financial Econometrics** — GARCH, cointegration, event studies (R)
 **Programming** — Python, SQL, R
 
-<br/>
-
-![Values & Principles](./assets/heading-values.svg)  
-<img src="./assets/divider.svg" width="100%" />
-<br/>
+## Values & Principles
 
 **Rigor** — Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
 
@@ -56,11 +44,7 @@ Ljubljana, Slovenia
 
 **Applied Focus** — Work is grounded in real market data and real use cases, not toy examples.
 
-<br/>
-
-![Projects](./assets/heading-projects.svg)  
-<img src="./assets/divider.svg" width="100%" />
-<br/>
+## Projects
 
 | Repository | Description |
 |---|---|
@@ -73,6 +57,6 @@ Ljubljana, Slovenia
 
 *(Update links once each repo exists — pin these 6 on your profile via "Customize your pins.")*
 
-<br/>
+---
 
 <sub>The content of this website is intended solely for general informational and educational purposes and does not constitute personalized legal, financial, or investment advice. While it has been prepared with the utmost care, it should not be considered a substitute for professional advice. All trademarks, logos, and brand names are the property of their respective owners and are protected by applicable rights.</sub>
