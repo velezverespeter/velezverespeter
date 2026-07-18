@@ -1,19 +1,5 @@
-<table width="100%">
-<tr>
-<td align="left" valign="middle">
-
 # Peter Velez Vereš
 Economist | Financial Analyst | CFA Candidate
-
-</td>
-<td align="right" valign="middle">
-
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat-square)](https://velezverespeter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
-
-</td>
-</tr>
-</table>
 
 ## Education
 
@@ -61,6 +47,13 @@ Ljubljana, Slovenia
 | [`applied-financial-tools`](https://github.com/velezverespeter/applied-financial-tools) | Everyday finance automation — budgeting, dashboards, personal finance scripts |
 
 *(Update links once each repo exists — pin these 6 on your profile via "Customize your pins.")*
+
+<div align="right">
+
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat-square)](https://velezverespeter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velezverespeter)
+
+</div>
 
 ---
 
