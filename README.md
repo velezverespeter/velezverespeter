@@ -19,7 +19,7 @@ Economist | Financial Analyst | CFA Candidate
 
 ## Skills & Expertise
 
-Core competencies developed through academic coursework, self-directed study, and independent projects.
+Core competencies developed through academic coursework and self-directed study.
 
 <table width="100%">
 <tr><th align="left">Category</th><th align="left">Tools &amp; Methods</th></tr>
