@@ -15,7 +15,6 @@ Economist | Financial Analyst | CFA Candidate
 
 ▪ Fundamentals of economics and finance: holistic understanding of markets, companies, and core financial concepts  
 ▪ Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance  
-▪ Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
 
 ## Skills & Expertise
 
