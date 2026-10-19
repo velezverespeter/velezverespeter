@@ -25,37 +25,32 @@ Core competencies developed through academic coursework and self-directed study.
 <tr><td>Financial Modeling &amp; Valuation</td><td>Discounted cash flow (DCF) modeling, comparable company and precedent transaction analysis, LBO modeling, sensitivity and scenario analysis for investment decision-making</td></tr>
 <tr><td>Financial Statement Analysis</td><td>Ratio and trend analysis, variance analysis against budget and forecast, rolling budgeting and forecasting, structured review of 10-K/10-Q filings for credit and equity research</td></tr>
 <tr><td>Risk &amp; Portfolio Analysis</td><td>Value-at-Risk (VaR) and Conditional VaR, historical and hypothetical stress testing, efficient frontier construction, multi-factor models, Monte Carlo simulation for portfolio outcomes</td></tr>
-<tr><td>Quantitative &amp; Data Tools</td><td>Python (pandas, numpy, statsmodels) and R for statistical and econometric modeling, SQL for querying and structuring financial datasets, applied econometrics including GARCH volatility models and cointegration testing</td></tr>
+<tr><td>Quantitative &amp; Data Tools</td><tdPython (beginner level; basic data analysis with pandas), basic SQL, foundations of statistics and econometrics from university coursework</td></tr>
 <tr><td>Reporting &amp; Communication</td><td>Advanced Excel and VBA for financial models and automation, PowerPoint for investment and management presentations, dashboard design for recurring reporting, clear communication of findings to non-technical stakeholders</td></tr>
 </table>
 
 ## Values & Principles
 
-The standards I hold myself to in analytical and academic work.
+**01 · Assumptions first**
+Every risk number rests on assumptions about how prices behave. I write them down before the results, because a VaR figure is only as trustworthy as the assumptions behind it.
 
-**01 Rigor**
-Every model states its assumptions and limitations explicitly; results are reproducible from raw data to conclusion.
+**02 · Focus on the tails**
+In risk management, averages rarely cause losses; extreme days do. Electricity prices are especially prone to sudden spikes, so I pay attention to tail behaviour, stress periods such as the 2022 energy crisis, and what a model might miss.
 
-**02 Clarity**
-Financial analysis exists to inform decisions — output is built to be read by someone without the code in front of them.
+**03 · Test the model against reality**
+A model is useful only if it would have worked in the past. I plan to check my estimates against historical outcomes (backtesting) and to note honestly where they fail.
 
-**03 Applied Focus**
-Work is grounded in real market data and real use cases, not toy examples.
+**04 · Data before models**
+Missing hours, daylight-saving shifts and price outliers can quietly distort results. I check and clean data carefully before building anything on top of it.
 
-## Projects
+**05 · Reproducibility**
+Each project runs from raw data to final result with documented steps, so anyone can repeat the analysis and get the same numbers.
 
-Independent projects built with public market data and open-source tools, for applied learning and demonstration purposes.
+**06 · Clarity for decision-makers**
+Risk analysis exists to support decisions. I aim to present results so that someone without the code, such as a trader or manager, understands what the number means and how much to rely on it.
 
-<table width="100%">
-<tr><th align="left">Repository</th><th align="left">Description</th></tr>
-<tr><td><a href="https://github.com/velezverespeter/quantitative-asset-pricing"><code>quantitative-asset-pricing</code></a></td><td>Valuation and pricing models built from public market data — DCF, comparable company analysis, options and bond pricing</td></tr>
-<tr><td><a href="https://github.com/velezverespeter/portfolio-theory-and-risk-management"><code>portfolio-theory-and-risk-management</code></a></td><td>Portfolio risk framework applied to public index and equity data — efficient frontier, VaR/CVaR, factor models, Monte Carlo simulation</td></tr>
-<tr><td><a href="https://github.com/velezverespeter/financial-econometrics"><code>financial-econometrics</code></a></td><td>Time-series analysis of public market data — GARCH volatility, cointegration, event studies</td></tr>
-<tr><td><a href="https://github.com/velezverespeter/financial-data-engineering"><code>financial-data-engineering</code></a></td><td>SQL schema design and an ETL pipeline built around public market data APIs</td></tr>
-<tr><td><a href="https://github.com/velezverespeter/corporate-finance-and-statement-analysis"><code>corporate-finance-and-statement-analysis</code></a></td><td>Analysis of publicly filed statements — automated 10-K/10-Q parsing, ratio analysis, credit scoring, LBO modeling</td></tr>
-<tr><td><a href="https://github.com/velezverespeter/applied-financial-tools"><code>applied-financial-tools</code></a></td><td>Personal finance automation — budgeting, dashboards, everyday utility scripts</td></tr>
-</table>
-
+**07 · Real data, continuous learning**
+I learn on real market data and treat each project as a step towards more advanced methods such as Monte Carlo simulation and volatility modelling.
 
 <br/>
 <br/>
