@@ -34,25 +34,25 @@ Core competencies developed through academic coursework and self-directed study.
 
 ## Values & Principles
 
-**01 · Assumptions first**
+**01 Assumptions first**
 Every risk number rests on assumptions about how prices behave. I write them down before the results, because a VaR figure is only as trustworthy as the assumptions behind it.
 
-**02 · Focus on the tails**
+**02 Focus on the tails**
 In risk management, averages rarely cause losses; extreme days do. Electricity prices are especially prone to sudden spikes, so I pay attention to tail behaviour, stress periods such as the 2022 energy crisis, and what a model might miss.
 
-**03 · Test the model against reality**
+**03 Test the model against reality**
 A model is useful only if it would have worked in the past. I plan to check my estimates against historical outcomes (backtesting) and to note honestly where they fail.
 
-**04 · Data before models**
+**04 Data before models**
 Missing hours, daylight-saving shifts and price outliers can quietly distort results. I check and clean data carefully before building anything on top of it.
 
-**05 · Reproducibility**
+**05 Reproducibility**
 Each project runs from raw data to final result with documented steps, so anyone can repeat the analysis and get the same numbers.
 
-**06 · Clarity for decision-makers**
+**06 Clarity for decision-makers**
 Risk analysis exists to support decisions. I aim to present results so that someone without the code, such as a trader or manager, understands what the number means and how much to rely on it.
 
-**07 · Real data, continuous learning**
+**07 Real data, continuous learning**
 I learn on real market data and treat each project as a step towards more advanced methods such as Monte Carlo simulation and volatility modelling.
 
 <br/>
