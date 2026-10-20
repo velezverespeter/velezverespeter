@@ -6,16 +6,18 @@ Economist | Financial Analyst | CFA Candidate
 **Master of Science, Banking and Financial Management**
 *University of Ljubljana, Faculty of Economics* — Ljubljana, Slovenia
 
-▪ Specialised knowledge: in-depth understanding of banking, financial instruments, capital markets, and risk management  
-▪ Strategic vision: goal-oriented thinking focused on long-term growth and sustainable results  
-▪ Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
+▪ Specialised knowledge: in-depth understanding of banking, financial instruments, capital markets, and risk management<br>
+▪ Strategic vision: goal-oriented thinking focused on long-term growth and sustainable results<br>
+▪ Triple accreditation (EQUIS, AACSB, AMBA)<br>
+▪ Eduniversal Ranking #4, CEE (2023–2024)
 
 **Bachelor of Arts, Banking and Financial Management**
 *University of Ljubljana, Faculty of Economics* — Ljubljana, Slovenia
 
-▪ Fundamentals of economics and finance: holistic understanding of markets, companies, and core financial concepts  
-▪ Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance
-▪ Triple accreditation (EQUIS, AACSB, AMBA) · Eduniversal Ranking #4, CEE (2023–2024)
+▪ Fundamentals of economics and finance: holistic understanding of markets, companies, and core financial concepts<br>
+▪ Analytical thinking: development of basic quantitative and business skills for further studies or a career in finance<br>
+▪ Triple accreditation (EQUIS, AACSB, AMBA)<br>
+▪ Eduniversal Ranking #4, CEE (2023–2024)
 
 ## Skills & Expertise
 
