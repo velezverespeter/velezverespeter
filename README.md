@@ -26,10 +26,10 @@ Core competencies developed through academic coursework and self-directed study.
 <table width="100%">
 <tr><th align="left">Category</th><th align="left">Tools &amp; Methods</th></tr>
 <tr><td>Financial Modeling &amp; Valuation</td><td>Discounted cash flow (DCF) modeling, comparable company and precedent transaction analysis, LBO modeling, sensitivity and scenario analysis for investment decision-making</td></tr>
-<tr><td>Financial Statement Analysis</td><td>Ratio and trend analysis, variance analysis against budget and forecast, rolling budgeting and forecasting, structured review of 10-K/10-Q filings for credit and equity research</td></tr>
-<tr><td>Risk &amp; Portfolio Analysis</td><td>Value-at-Risk (VaR) and Conditional VaR, historical and hypothetical stress testing, efficient frontier construction, multi-factor models, Monte Carlo simulation for portfolio outcomes</td></tr>
+<tr><td>Financial Statement Analysis</td><td>Ratio and trend analysis, preparation of financial statements from trial balances, cash flow analysis, review of annual reports for valuation and credit assessment</td></tr>
+<tr><td>Risk &amp; Portfolio Analysis</td><td>Value-at-Risk (VaR), stress testing and scenario analysis, liquidity risk analysis, portfolio optimisation (Markowitz)</td></tr>
 <tr><td>Quantitative &amp; Data Tools</td><td>Python (beginner level; basic data analysis with pandas), basic SQL, foundations of statistics and econometrics from university coursework</td></tr>
-<tr><td>Reporting &amp; Communication</td><td>Advanced Excel and VBA for financial models and automation, PowerPoint for investment and management presentations, dashboard design for recurring reporting, clear communication of findings to non-technical stakeholders</td></tr>
+<tr><td>Reporting &amp; Communication</td><td>Advanced Excel for financial models, PowerPoint for presentations of analyses, clear communication of findings to clients and non-technical stakeholders</td></tr>
 </table>
 
 ## Values & Principles
